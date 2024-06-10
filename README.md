@@ -1,4 +1,4 @@
-## CRUD 🥵🥵🥵🥵
+## CRUD
 EL PROYECTO CONSISTE EN CREAR E INGRESAR UNA CUENTA PARA ACCEDER A LAS CALIFICACIONES DE LOS ALUMNOS EN TODAS SUS MATERIAS Y HACER MODIFICACIONES <br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣶⣦⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀ <br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⡿⠛⠉⠙⠛⠛⠛⠛⠻⢿⣿⣷⣤⡀⠀⠀⠀⠀⠀ <br>
